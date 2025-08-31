@@ -1,2 +1,3 @@
 Hello GitHub!
 This is my first text file.
+i am learning GitHub step by step.
